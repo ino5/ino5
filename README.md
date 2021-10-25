@@ -21,7 +21,7 @@
   <img alt="Mysql" src="https://img.shields.io/badge/Mysql-4479A1.svg?style=for-the-badge&logo=Mysql&logoColor=white"/>&nbsp
   <img alt="Mariadb" src="https://img.shields.io/badge/Mariadb-003545.svg?style=for-the-badge&logo=Mariadb&logoColor=%234FC08D"/>&nbsp
   <br>
-  <img alt="Java" src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=black" />&nbsp
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   <img alt="c" src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp
   <img alt="spring" src="https://img.shields.io/badge/spring-232F3E.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
