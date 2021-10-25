@@ -1,5 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=hiyo^^&fontSize=90)
+
+
 
 ### Baek-End Web Developer
+
+- Name: Baek Inho
 
 ### Interest
 
@@ -32,4 +37,4 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
