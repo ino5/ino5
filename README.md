@@ -8,7 +8,7 @@
 
 ### Interest
 
-- Java Spring Framework
+- Java
 
 ### Contact
 - ✉ chero77@naver.com
