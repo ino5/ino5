@@ -4,7 +4,7 @@
 
 ### Baek-End Web Developer
 
-- Name: Baek Inho
+- Name: Inho Baek
 
 ### Interest
 
