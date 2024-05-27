@@ -4,8 +4,6 @@
 
 ### Baek-End Web Developer
 
-- Name: Inho Baek
-
 ### Interest
 
 - Java
