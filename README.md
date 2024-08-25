@@ -12,8 +12,8 @@
 - ✉ chero77@naver.com
 
 ### Etc
-- https://blog.naver.com/chero77
 - https://www.linkedin.com/in/ino5
+- https://blog.naver.com/chero77
 
 <br>
 
